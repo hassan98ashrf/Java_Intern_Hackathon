@@ -57,15 +57,23 @@ The project has the following requirements:
 ### Use Case Diagram
 The **Use Case Diagram** defines the interactions between the customer and administrator with the system, specifying operations such as deposit, withdrawal, account management, and report generation.
 
-![Use Case Diagram](use_case_diagram.png)
+![case1](https://github.com/user-attachments/assets/4c47f3ab-8af5-4571-9a82-8a666aa91cf2)
+
 
 ### Activity Diagram
 The **Activity Diagram** illustrates the step-by-step flow of customer and administrator interactions, from logging in to performing transactions and generating reports.
 
-![Activity Diagram](activity_diagram.png)
+![activity1](https://github.com/user-attachments/assets/ad44c52c-6c9f-4ae4-82e7-0e8c80ea1e4a)
+
 
 ### Sequence Diagram
 The **Sequence Diagram** (not included) showcases the detailed flow of communication between the objects in the system, including how requests are processed during customer and administrator operations.
+
+![seq1](https://github.com/user-attachments/assets/99f5a8ae-9c7c-48b0-9182-23eded3a4fc1)
+
+![seq2](https://github.com/user-attachments/assets/77016735-e6a3-4abd-8261-2375f95a5e8d)
+
+
 
 ## Implementation
 
@@ -96,7 +104,7 @@ To run the project:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-repo/bank-management-system.git
+   [git clone https://github.com/your-repo/bank-management-system.git](https://github.com/hassan98ashrf/Java_Intern_Hackathon/tree/main)
    
 2. Change path of texts from "src\main\java\gui\Service\PathOfText.java"
 
