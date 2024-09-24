@@ -32,6 +32,7 @@ The **Kanban** method was chosen for this project as it supports continuous impr
 2. **In Progress**: Implementing core features like deposit, withdrawal, and account management.
 3. **Testing**: Verifying code functionality through manual and automated tests.
 4. **Done**: Completed tasks and modules.
+[Kanban](https://trello.com/b/yh2v3DZ4/hackathon)
 
 ## Requirements
 
