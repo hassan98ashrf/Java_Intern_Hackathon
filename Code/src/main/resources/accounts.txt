@@ -1,0 +1,8 @@
+AccountID  ,  CustomerID  ,  Type  ,  Balance  ,  interestRate/CreditLimit  ,  LoanDuration
+101  ,  1  ,  Checking  ,  10000.0  ,  2000.0  ,  0
+102  ,  1  ,  Saving  ,  3800.0  ,  2.5  ,  0
+103  ,  2  ,  Loan  ,  10200.0  ,  5.0  ,  3.0
+104  ,  2  ,  Saving  ,  5000.0  ,  5.0  ,  0
+108  ,  1  ,  Saving  ,  6400.0  ,  5.0  ,  0
+111  ,  2  ,  Saving  ,  1200.0  ,  6.0  ,  0
+130  ,  2  ,  Checking  ,  6000.0  ,  1000.0  ,  NULL
