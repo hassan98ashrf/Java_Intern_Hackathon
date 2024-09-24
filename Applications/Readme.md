@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/efa992d8-65f7-4f6d-a4ee-57fc2c6001d1
 https://github.com/user-attachments/assets/5e676dc9-cda9-4866-bf82-6790bc3f9c68
 
 
-### Admi Report
+### Admin Report
 
 https://github.com/user-attachments/assets/6b5b5091-b05b-447d-a149-ea3a85b6d6da
 
