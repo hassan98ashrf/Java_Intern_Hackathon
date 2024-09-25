@@ -52,6 +52,10 @@ The project has the following requirements:
   - Customer data is stored in `customers.txt`.
   - Account details are stored in `accounts.txt`.
   - Transaction history is stored in `account_transaction.txt`.
+  - 
+![hec2](https://github.com/user-attachments/assets/bcb7bbaa-13eb-454f-8dec-6b935006b1f0)
+
+
 
 ## System Analysis
 
