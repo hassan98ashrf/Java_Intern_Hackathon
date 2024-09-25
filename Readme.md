@@ -32,7 +32,8 @@ The **Kanban** method was chosen for this project as it supports continuous impr
 2. **In Progress**: Implementing core features like deposit, withdrawal, and account management.
 3. **Testing**: Verifying code functionality through manual and automated tests.
 4. **Done**: Completed tasks and modules.
-[Kanban](https://trello.com/b/yh2v3DZ4/hackathon)
+
+You can check Kanban table here :[Kanban](https://trello.com/b/yh2v3DZ4/hackathon)
 
 ## Requirements
 
@@ -97,6 +98,8 @@ The application was tested manually to ensure that all features work as expected
 3. **Balance Enquiry**: Ensured that accurate balances were displayed.
 4. **View Transactions**: Checked the transaction history after operations.
 5. **Administrator Operations**: Verified that the administrator can manage customers and generate reports accurately.
+
+You can check test cases here : [Manual test ](https://docs.google.com/spreadsheets/d/1kSyavnK3LL2xU1uAcow6kbD7keFH2O3Zy111wen7giA/edit?gid=1623262623#gid=1623262623)
 
 ## How to Run
 
