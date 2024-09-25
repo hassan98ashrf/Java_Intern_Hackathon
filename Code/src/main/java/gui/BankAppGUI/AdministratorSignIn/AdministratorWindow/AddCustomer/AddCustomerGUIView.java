@@ -35,8 +35,6 @@ public class AddCustomerGUIView extends JFrame {
                 String phone = initializeComponents.getTxtPhone().getText();
                 String email = initializeComponents.getTxtEmail().getText();
 
-                customer = new Customer(customerID,name,address,phone,email);
-                String customerInfo = customer.getCustomerDetails();
 
                 //Check all fields fill
                 if (customerID.isEmpty() || name.isEmpty() || address.isEmpty() || phone.isEmpty() || email.isEmpty()) {
@@ -49,6 +47,10 @@ public class AddCustomerGUIView extends JFrame {
                     JOptionPane.showMessageDialog(null, "Customer ID already exists", "Error", JOptionPane.ERROR_MESSAGE);
                     return;
                 }
+
+                //Set data of customer
+                customer = new Customer(customerID,name,address,phone,email);
+                String customerInfo = customer.getCustomerDetails();
 
                 try (BufferedWriter writer = new BufferedWriter(new FileWriter(customerPath.getCustomerPath(), true))) {
                    //Adding data

@@ -11,6 +11,9 @@ import java.awt.event.ActionListener;
 public class AdministratorSignInGUIView extends JFrame {
     private InitializeSignInComponents initializeComponents;
     private SetUpFrame AdminGUIFrame ;
+    private final String userName = "Admin";
+    private final String passwords = "Admin";
+
     public AdministratorSignInGUIView(){
 
         //Set up frame
@@ -41,7 +44,7 @@ public class AdministratorSignInGUIView extends JFrame {
                     JOptionPane.showMessageDialog(null, "Please fill all fields", "Error", JOptionPane.ERROR_MESSAGE);
                     return;
                 }
-                if(name.equals("Admin") && password.equals("Admin"))
+                if(name.equals(userName) && password.equals(passwords))
                 {
                     new AdministratorWindowGUIView().setVisible(true);
                 }
